@@ -1,16 +1,4 @@
-<!-- 🌻 Autumn School 2025 — Switzerland: Start Notebook -->
-
-<p align="center">
-  <img
-    alt="Autumn School 2025 — Switzerland"
-    src="https://svg-bkg.vercel.app/banner.svg?text=🍁%20Autumn%20School%202025%20—%20Switzerland%0AOpen%20Science%20to%20Link%20MFA%20and%20LCA%20🌍&bg=ffb347,ffcc33&radius=20&padding=25"
-    width="100%"
-  />
-</p>
-
-<p align="right"><sub>Hosted by <b>Départ de Sentier</b></sub></p>
-
----
+# Autumn School 2025 — Switzerland
 
 ### 👋 Welcome
 
@@ -46,14 +34,16 @@ It’s your one-stop entry to all materials, sessions, and resources.
 - 11:00 Timex (external input)
 - 12:00 Lunch
 - 13:30 Edges library (external input)
-- 14:30 Group work
+- 14:30 Interpretation
+- 15:00 Imports and Exports
 - 18:30 Dinner
 - 20:00 Group work
 
 ## Wednesday
 
 - 8:00 Breakfast
-- 9:00 Group work
+- 9:00 Graph traversal
+- 9:45 Group work
 - 12:00 Lunch
 - 13:30 Group work
 - 18:30 Dinner
