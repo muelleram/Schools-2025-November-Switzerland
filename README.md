@@ -46,14 +46,16 @@ It’s your one-stop entry to all materials, sessions, and resources.
 - 11:00 Timex (external input)
 - 12:00 Lunch
 - 13:30 Edges library (external input)
-- 14:30 Group work
+- 14:30 Interpretation
+- 15:00 Imports and Exports
 - 18:30 Dinner
 - 20:00 Group work
 
 ## Wednesday
 
 - 8:00 Breakfast
-- 9:00 Group work
+- 9:00 Graph traversal
+- 9:45 Group work
 - 12:00 Lunch
 - 13:30 Group work
 - 18:30 Dinner
